@@ -18,7 +18,34 @@ Dibuat dan dirawat oleh **Indrawan Lisanto**
 
 ### 🎯 Panduan Utama
 
-#### 1. **Sprint Implementasi 4 Minggu** (Mulai Cepat)
+#### 🔥 **Mode Disaster 1 Jam** (Production Terbakar Sekarang)
+- **Bahasa Indonesia**: [`.github/PANDUAN_AI_WORKFLOW_DISASTER_1_JAM.md`](./.github/PANDUAN_AI_WORKFLOW_DISASTER_1_JAM.md)
+  - Tombol panic saat production TERBAKAR
+  - Cocok untuk: Production down, investor waiting, deadline SEKARANG
+  - Durasi: 60 menit, minute-by-minute breakdown
+  
+- **English**: [`.github/AI_WORKFLOW_DISASTER_1_HOUR.md`](./.github/AI_WORKFLOW_DISASTER_1_HOUR.md)
+  - Versi bahasa Inggris untuk mode disaster total
+
+#### 🚀 **Sprint Emergency 1 Hari** (Kejar Deadline)
+- **Bahasa Indonesia**: [`.github/PANDUAN_AI_WORKFLOW_EMERGENCY_1_HARI.md`](./.github/PANDUAN_AI_WORKFLOW_EMERGENCY_1_HARI.md)
+  - Cerita nyata dari AI adoption saat deadline kejar-kejaran
+  - Cocok untuk: Desperate deadline situations, emergency shipping
+  - Durasi: 24 jam, hour-by-hour breakdown
+  
+- **English**: [`.github/AI_WORKFLOW_EMERGENCY_1_DAY.md`](./.github/AI_WORKFLOW_EMERGENCY_1_DAY.md)
+  - Versi bahasa Inggris dari guide 24-jam
+
+#### ⚡ **Sprint Implementasi 1 Minggu** (Tim Kecil)
+- **Bahasa Indonesia**: [`.github/PANDUAN_AI_WORKFLOW_1_MINGGU.md`](./.github/PANDUAN_AI_WORKFLOW_1_MINGGU.md)
+  - Fast-track setup untuk solo engineers dan tim kecil (1-5 orang)
+  - Cocok untuk: Tim kecil yang ingin hasil cepat, indie developer
+  - Durasi: 1 minggu, 2-3 jam per hari, hasil praktis
+  
+- **English**: [`.github/AI_WORKFLOW_GUIDE_1_WEEK.md`](./.github/AI_WORKFLOW_GUIDE_1_WEEK.md)
+  - Versi bahasa Inggris untuk tim kecil
+
+#### 📋 **Sprint Implementasi 4 Minggu** (Mulai Cepat)
 - **Bahasa Indonesia**: [`.github/PANDUAN_AI_WORKFLOW_4_MINGGU.md`](./.github/PANDUAN_AI_WORKFLOW_4_MINGGU.md)
   - Implementasi cepat dari solo AI coding ke production team-scale
   - Cocok untuk: Memulai dengan cepat, hasil produktivitas langsung
@@ -27,7 +54,7 @@ Dibuat dan dirawat oleh **Indrawan Lisanto**
 - **English**: [`.github/AI_WORKFLOW_GUIDE_4_WEEKS.md`](./.github/AI_WORKFLOW_GUIDE_4_WEEKS.md)
   - Versi bahasa Inggris dari panduan 4-minggu
 
-#### 2. **Panduan Implementasi Enterprise** (Komprehensif)
+#### 🏢 **Panduan Implementasi Enterprise** (Komprehensif)
 - **Bahasa Indonesia**: [`.github/PANDUAN_MEMBUAT_AI_WORKFLOW_UNTUK_TIM_ENGINEERING.md`](./.github/PANDUAN_MEMBUAT_AI_WORKFLOW_UNTUK_TIM_ENGINEERING.md)
   - Blueprint mendalam 12-minggu untuk tim besar
   - Cocok untuk: Perencanaan detail, adopsi enterprise-scale, metrik & ROI
@@ -36,7 +63,7 @@ Dibuat dan dirawat oleh **Indrawan Lisanto**
 - **English**: [`.github/GUIDE_TO_CREATE_AI_WORKFLOW_FOR_ENGINEERING_TEAM.md`](./.github/GUIDE_TO_CREATE_AI_WORKFLOW_FOR_ENGINEERING_TEAM.md)
   - Versi bahasa Inggris dari panduan enterprise
 
-#### 3. **Ringkasan Update Toolkit**
+#### 📚 **Ringkasan Update Toolkit**
 - [`.github/AI_TOOLKIT_UPDATE_SUMMARY.md`](./.github/AI_TOOLKIT_UPDATE_SUMMARY.md)
   - Dokumentasi penambahan toolkit AI terbaru
   - Daftar agents, prompts, skills, dan instructions
@@ -95,10 +122,11 @@ Semua file referensi berada di [`.github/references/`](./.github/references/)
 ## 📊 Apa yang Disertakan
 
 ### File Dokumentasi
-- ✅ 7 panduan markdown komprehensif (baru 1-minggu & 1-hari)
+- ✅ 8 panduan markdown komprehensif (baru disaster 1-jam)
 - ✅ Dukungan multi-bahasa (English & Indonesian)
-- ✅ Sprint emergency 24-jam (implementasi crisis)
-- ✅ Sprint praktis 1-minggu untuk tim kecil
+- ✅ Sprint disaster 1-jam (production emergency)
+- ✅ Sprint emergency 24-jam (kejar deadline)
+- ✅ Sprint 1-minggu untuk tim kecil
 - ✅ Sprint 4-minggu (quick implementation)
 - ✅ Blueprint enterprise detail 12-minggu
 - ✅ Ringkasan toolkit dengan semua resources tersedia
@@ -187,6 +215,9 @@ Semua file referensi berada di [`.github/references/`](./.github/references/)
 ---
 
 ## 🔗 Mulai Dari Mana
+
+### 🔥 PRODUCTION TERBAKAR SEKARANG?!
+→ Langsung ke [**Mode Disaster 1 Jam**](./.github/PANDUAN_AI_WORKFLOW_DISASTER_1_JAM.md) - Survival guide minute-by-minute
 
 ### 🔴 KEJAR DEADLINE 24 JAM?!
 → Langsung ke [**Panduan Emergency 1 Hari**](./.github/PANDUAN_AI_WORKFLOW_EMERGENCY_1_HARI.md) - Ini untuk Anda

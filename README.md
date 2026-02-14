@@ -18,6 +18,15 @@ Created and maintained by **Indrawan Lisanto**
 
 ### 🎯 Main Guides
 
+#### 🔥 **1-Hour Disaster Mode** (Production Down RIGHT NOW)
+- **English**: [`.github/AI_WORKFLOW_DISASTER_1_HOUR.md`](./.github/AI_WORKFLOW_DISASTER_1_HOUR.md)
+  - The panic button when production is BURNING
+  - Perfect for: Production down, investors waiting, deadline NOW
+  - Duration: 60 minutes, minute-by-minute breakdown
+  
+- **Indonesian (Bahasa Indonesia)**: [`.github/PANDUAN_AI_WORKFLOW_DISASTER_1_JAM.md`](./.github/PANDUAN_AI_WORKFLOW_DISASTER_1_JAM.md)
+  - Versi bahasa Indonesia untuk mode disaster total
+
 #### 🚀 **1-Day Emergency Sprint** (Deadline Crisis Mode)
 - **English**: [`.github/AI_WORKFLOW_EMERGENCY_1_DAY.md`](./.github/AI_WORKFLOW_EMERGENCY_1_DAY.md)
   - Real story of going from zero AI to full production in 24 hours
@@ -113,8 +122,9 @@ All reference files are located in [`.github/references/`](./.github/references/
 ## 📊 What's Included
 
 ### Documentation Files
-- ✅ 7 comprehensive markdown guides (new 1-week & 1-day)
+- ✅ 8 comprehensive markdown guides (new disaster 1-hour)
 - ✅ Multi-language support (English & Indonesian)
+- ✅ 1-hour disaster sprint (production emergency)
 - ✅ 24-hour emergency sprint (crisis mode)
 - ✅ 1-week sprint for small teams
 - ✅ 4-week sprint (quick implementation)
@@ -178,10 +188,12 @@ All reference files are located in [`.github/references/`](./.github/references/
 ├── README.id.md (Indonesian)
 └── .github/
     ├── AI_TOOLKIT_UPDATE_SUMMARY.md
-    ├── AI_WORKFLOW_EMERGENCY_1_DAY.md (NEW!)
-    ├── PANDUAN_AI_WORKFLOW_EMERGENCY_1_HARI.md (NEW!)
-    ├── AI_WORKFLOW_GUIDE_1_WEEK.md (NEW!)
-    ├── PANDUAN_AI_WORKFLOW_1_MINGGU.md (NEW!)
+    ├── AI_WORKFLOW_DISASTER_1_HOUR.md (NEW! 🔥)
+    ├── PANDUAN_AI_WORKFLOW_DISASTER_1_JAM.md (NEW! 🔥)
+    ├── AI_WORKFLOW_EMERGENCY_1_DAY.md
+    ├── PANDUAN_AI_WORKFLOW_EMERGENCY_1_HARI.md
+    ├── AI_WORKFLOW_GUIDE_1_WEEK.md
+    ├── PANDUAN_AI_WORKFLOW_1_MINGGU.md
     ├── AI_WORKFLOW_GUIDE_4_WEEKS.md
     ├── PANDUAN_AI_WORKFLOW_4_MINGGU.md
     ├── GUIDE_TO_CREATE_AI_WORKFLOW_FOR_ENGINEERING_TEAM.md
@@ -205,6 +217,9 @@ All reference files are located in [`.github/references/`](./.github/references/
 ---
 
 ## 🔗 Where to Start
+
+### 🚨 PRODUCTION DOWN RIGHT NOW?!
+→ Go to [**1-Hour Disaster Mode**](./.github/AI_WORKFLOW_DISASTER_1_HOUR.md) - minute by minute survival guide
 
 ### 🔴 DEADLINE IN 24 HOURS?!
 → Go straight to [**1-Day Emergency Guide**](./.github/AI_WORKFLOW_EMERGENCY_1_DAY.md) - This is for you
