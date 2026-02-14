@@ -18,7 +18,25 @@ Created and maintained by **Indrawan Lisanto**
 
 ### 🎯 Main Guides
 
-#### 1. **4-Week Implementation Sprint** (Quick Start)
+#### 🚀 **1-Day Emergency Sprint** (Deadline Crisis Mode)
+- **English**: [`.github/AI_WORKFLOW_EMERGENCY_1_DAY.md`](./.github/AI_WORKFLOW_EMERGENCY_1_DAY.md)
+  - Real story of going from zero AI to full production in 24 hours
+  - Perfect for: Desperate deadline situations, emergency shipping
+  - Duration: 24 hours (literally), hour-by-hour breakdown
+  
+- **Indonesian (Bahasa Indonesia)**: [`.github/PANDUAN_AI_WORKFLOW_EMERGENCY_1_HARI.md`](./.github/PANDUAN_AI_WORKFLOW_EMERGENCY_1_HARI.md)
+  - Cerita nyata dari AI adoption saat deadline kejar-kejaran
+
+#### ⚡ **1-Week Implementation Sprint** (Small Teams)
+- **English**: [`.github/AI_WORKFLOW_GUIDE_1_WEEK.md`](./.github/AI_WORKFLOW_GUIDE_1_WEEK.md)
+  - Fast-track setup for solo engineers and small teams (1-5 people)
+  - Perfect for: Small teams wanting quick results, indie developers
+  - Duration: 1 week, 2-3 hours per day, practical outcomes
+  
+- **Indonesian (Bahasa Indonesia)**: [`.github/PANDUAN_AI_WORKFLOW_1_MINGGU.md`](./.github/PANDUAN_AI_WORKFLOW_1_MINGGU.md)
+  - Versi bahasa Indonesia untuk tim kecil dan solo engineer
+
+#### 📋 **4-Week Implementation Sprint** (Quick Start)
 - **English**: [`.github/AI_WORKFLOW_GUIDE_4_WEEKS.md`](./.github/AI_WORKFLOW_GUIDE_4_WEEKS.md)
   - Fast-track implementation from solo AI coding to team-scale production
   - Perfect for: Getting started quickly, immediate productivity gains
@@ -27,7 +45,7 @@ Created and maintained by **Indrawan Lisanto**
 - **Indonesian (Bahasa Indonesia)**: [`.github/PANDUAN_AI_WORKFLOW_4_MINGGU.md`](./.github/PANDUAN_AI_WORKFLOW_4_MINGGU.md)
   - Versi bahasa Indonesia dari guide 4-minggu
 
-#### 2. **Enterprise Implementation Guide** (Comprehensive)
+#### 🏢 **Enterprise Implementation Guide** (Comprehensive)
 - **English**: [`.github/GUIDE_TO_CREATE_AI_WORKFLOW_FOR_ENGINEERING_TEAM.md`](./.github/GUIDE_TO_CREATE_AI_WORKFLOW_FOR_ENGINEERING_TEAM.md)
   - In-depth 12-week blueprint for large teams
   - Perfect for: Detailed planning, enterprise-scale adoption, metrics & ROI
@@ -36,7 +54,7 @@ Created and maintained by **Indrawan Lisanto**
 - **Indonesian (Bahasa Indonesia)**: [`.github/PANDUAN_MEMBUAT_AI_WORKFLOW_UNTUK_TIM_ENGINEERING.md`](./.github/PANDUAN_MEMBUAT_AI_WORKFLOW_UNTUK_TIM_ENGINEERING.md)
   - Versi bahasa Indonesia dari guide enterprise
 
-#### 3. **Toolkit Update Summary**
+#### 📚 **Toolkit Update Summary**
 - [`.github/AI_TOOLKIT_UPDATE_SUMMARY.md`](./.github/AI_TOOLKIT_UPDATE_SUMMARY.md)
   - Documentation of the latest AI toolkit additions
   - Lists agents, prompts, skills, and instructions
@@ -95,10 +113,12 @@ All reference files are located in [`.github/references/`](./.github/references/
 ## 📊 What's Included
 
 ### Documentation Files
-- ✅ 5 comprehensive markdown guides
+- ✅ 7 comprehensive markdown guides (new 1-week & 1-day)
 - ✅ Multi-language support (English & Indonesian)
-- ✅ Practical 4-week sprint (fast implementation)
-- ✅ Detailed 12-week enterprise blueprint
+- ✅ 24-hour emergency sprint (crisis mode)
+- ✅ 1-week sprint for small teams
+- ✅ 4-week sprint (quick implementation)
+- ✅ 12-week enterprise blueprint
 - ✅ Toolkit summary with all available resources
 
 ### Reference Materials
@@ -155,8 +175,13 @@ All reference files are located in [`.github/references/`](./.github/references/
 ```
 /guide-to-ai
 ├── README.md (this file)
+├── README.id.md (Indonesian)
 └── .github/
     ├── AI_TOOLKIT_UPDATE_SUMMARY.md
+    ├── AI_WORKFLOW_EMERGENCY_1_DAY.md (NEW!)
+    ├── PANDUAN_AI_WORKFLOW_EMERGENCY_1_HARI.md (NEW!)
+    ├── AI_WORKFLOW_GUIDE_1_WEEK.md (NEW!)
+    ├── PANDUAN_AI_WORKFLOW_1_MINGGU.md (NEW!)
     ├── AI_WORKFLOW_GUIDE_4_WEEKS.md
     ├── PANDUAN_AI_WORKFLOW_4_MINGGU.md
     ├── GUIDE_TO_CREATE_AI_WORKFLOW_FOR_ENGINEERING_TEAM.md
@@ -181,14 +206,17 @@ All reference files are located in [`.github/references/`](./.github/references/
 
 ## 🔗 Where to Start
 
-### 🟢 Absolute Beginner?
-→ Start with [**4-Week Implementation Guide**](./.github/AI_WORKFLOW_GUIDE_4_WEEKS.md)
+### 🔴 DEADLINE IN 24 HOURS?!
+→ Go straight to [**1-Day Emergency Guide**](./.github/AI_WORKFLOW_EMERGENCY_1_DAY.md) - This is for you
 
-### 🟡 Already Using AI?
-→ Read the [**Toolkit Update Summary**](./.github/AI_TOOLKIT_UPDATE_SUMMARY.md) then dive into references
+### 🟢 Small Team (1-5 people) Wanting Fast Setup?
+→ Read [**1-Week Implementation Guide**](./.github/AI_WORKFLOW_GUIDE_1_WEEK.md)
 
-### 🔴 Planning for Enterprise?
-→ Use the [**12-Week Enterprise Guide**](./.github/GUIDE_TO_CREATE_AI_WORKFLOW_FOR_ENGINEERING_TEAM.md)
+### 🟡 Already Using AI but Want Structure?
+→ Read [**4-Week Implementation Guide**](./.github/AI_WORKFLOW_GUIDE_4_WEEKS.md) then dive into references
+
+### 🟣 Planning for Enterprise?
+→ Use [**12-Week Enterprise Guide**](./.github/GUIDE_TO_CREATE_AI_WORKFLOW_FOR_ENGINEERING_TEAM.md)
 
 ### 🌐 Prefer Indonesian?
 → All main guides have Indonesian versions (PANDUAN_*)

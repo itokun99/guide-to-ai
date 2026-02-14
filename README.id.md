@@ -95,9 +95,11 @@ Semua file referensi berada di [`.github/references/`](./.github/references/)
 ## 📊 Apa yang Disertakan
 
 ### File Dokumentasi
-- ✅ 5 panduan markdown komprehensif
+- ✅ 7 panduan markdown komprehensif (baru 1-minggu & 1-hari)
 - ✅ Dukungan multi-bahasa (English & Indonesian)
-- ✅ Sprint praktis 4-minggu (implementasi cepat)
+- ✅ Sprint emergency 24-jam (implementasi crisis)
+- ✅ Sprint praktis 1-minggu untuk tim kecil
+- ✅ Sprint 4-minggu (quick implementation)
 - ✅ Blueprint enterprise detail 12-minggu
 - ✅ Ringkasan toolkit dengan semua resources tersedia
 
@@ -155,9 +157,13 @@ Semua file referensi berada di [`.github/references/`](./.github/references/)
 ```
 /guide-to-ai
 ├── README.md (English)
-├── README.id.md (Bahasa Indonesia - file ini)
+├── README.id.md (Bahasa Indonesia)
 └── .github/
     ├── AI_TOOLKIT_UPDATE_SUMMARY.md
+    ├── AI_WORKFLOW_EMERGENCY_1_DAY.md (NEW!)
+    ├── PANDUAN_AI_WORKFLOW_EMERGENCY_1_HARI.md (NEW!)
+    ├── AI_WORKFLOW_GUIDE_1_WEEK.md (NEW!)
+    ├── PANDUAN_AI_WORKFLOW_1_MINGGU.md (NEW!)
     ├── AI_WORKFLOW_GUIDE_4_WEEKS.md
     ├── PANDUAN_AI_WORKFLOW_4_MINGGU.md
     ├── GUIDE_TO_CREATE_AI_WORKFLOW_FOR_ENGINEERING_TEAM.md
@@ -182,13 +188,16 @@ Semua file referensi berada di [`.github/references/`](./.github/references/)
 
 ## 🔗 Mulai Dari Mana
 
-### 🟢 Pemula Absolut?
-→ Mulai dengan [**Panduan Implementasi 4-Minggu**](./.github/PANDUAN_AI_WORKFLOW_4_MINGGU.md)
+### 🔴 KEJAR DEADLINE 24 JAM?!
+→ Langsung ke [**Panduan Emergency 1 Hari**](./.github/PANDUAN_AI_WORKFLOW_EMERGENCY_1_HARI.md) - Ini untuk Anda
 
-### 🟡 Sudah Menggunakan AI?
-→ Baca [**Ringkasan Update Toolkit**](./.github/AI_TOOLKIT_UPDATE_SUMMARY.md) kemudian dive ke references
+### 🟢 Tim Kecil (1-5 orang) Ingin Setup Cepat?
+→ Baca [**Panduan Implementasi 1 Minggu**](./.github/PANDUAN_AI_WORKFLOW_1_MINGGU.md)
 
-### 🔴 Merencanakan untuk Enterprise?
+### 🟡 Sudah Pakai AI tapi Mau Systematic?
+→ Baca [**Panduan Implementasi 4-Minggu**](./.github/PANDUAN_AI_WORKFLOW_4_MINGGU.md) kemudian dive ke references
+
+### 🟣 Merencanakan untuk Enterprise?
 → Gunakan [**Panduan Enterprise 12-Minggu**](./.github/PANDUAN_MEMBUAT_AI_WORKFLOW_UNTUK_TIM_ENGINEERING.md)
 
 ### 🇬🇧 Lebih Suka Bahasa Inggris?
